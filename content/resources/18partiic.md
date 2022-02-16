@@ -4,8 +4,13 @@ description: This resource provides information about stress system, types of an
   use of UU type teststo measure anisotropy, test variables for CU testing, experimental
   capabilities, influence of rotation of principal stresses, progressive failure and
   consideration of anisotropy in under stress analysis.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-322-soil-behavior-spring-2005/e8854a651e4f22177d4cb3beeefc45b1_18partiic.pdf
+file: /media/courses/1-322-soil-behavior-spring-2005/e8854a651e4f22177d4cb3beeefc45b1_18partiic.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 18partiic.pdf
 uid: e8854a65-1e4f-2217-7d4c-b3beeefc45b1

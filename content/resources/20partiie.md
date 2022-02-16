@@ -4,8 +4,13 @@ description: This resource provides information about types of stability analysi
   and definition of factor safety, comparison of ESA vs. USA for staged construction,
   USA methodology, and non-circular stability analysis with anisotropic undrained
   shear strengths.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-322-soil-behavior-spring-2005/4c24e2923ebc73c40ee505fcaca1fbc1_20partiie.pdf
+file: /media/courses/1-322-soil-behavior-spring-2005/4c24e2923ebc73c40ee505fcaca1fbc1_20partiie.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 20partiie.pdf
 uid: 4c24e292-3ebc-73c4-0ee5-05fcaca1fbc1

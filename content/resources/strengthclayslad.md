@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-322-soil-behavior-spring-2005/e2365919cb510206bbb6d34ca2911dd3_strengthclayslad.pdf
+file: /media/courses/1-322-soil-behavior-spring-2005/e2365919cb510206bbb6d34ca2911dd3_strengthclayslad.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: strengthclayslad.pdf
 uid: e2365919-cb51-0206-bbb6-d34ca2911dd3
