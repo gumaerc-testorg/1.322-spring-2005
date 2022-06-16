@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The lecture notes section lists the class notes covered during the course
+  as per the topics.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -43,7 +45,7 @@ Overview, Organization, Soil Composition
 Clay-Water Forces
 {{< tdclose >}}
 {{< tdopen >}}
-Overview and Soil Composition (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/01partai))
+Overview and Soil Composition ({{% resource_link 1292a09c-0f1c-cc89-ccbc-0f7e9167a5b0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,9 +60,9 @@ LCJ
 Clay-Water Forces, Interparticle Forces
 {{< tdclose >}}
 {{< tdopen >}}
-Clay-Water Forces (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.0 MB]({{< baseurl >}}/resources/02partaii))  
+Clay-Water Forces ({{% resource_link 96119572-5fd0-7365-477f-97d8a844226d "PDF - 1.0 MB" %}})  
   
-Interparticle Forces: Components and Interaction (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/03partaiii))
+Interparticle Forces: Components and Interaction ({{% resource_link d3a4e7c4-9a74-8640-15d9-0c2a8afa99c0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -77,7 +79,7 @@ Strength Generation in Soils
 Soil Structure
 {{< tdclose >}}
 {{< tdopen >}}
-Strength Generation in Soils (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/04partaiv))  
+Strength Generation in Soils ({{% resource_link 79a8bd0f-4076-a54c-08e3-31c5a0b79667 "PDF" %}})  
   
 Soil Structure: Effects of Clay Type and Environmental Factors
 {{< tdclose >}}
@@ -96,7 +98,7 @@ Basic Strength Principles
 Simple Clay (Laddite) - NC
 {{< tdclose >}}
 {{< tdopen >}}
-Basic Strength Principles and Stress-Strain-Strength; Behavior of "Simple Clay" (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/07partb))
+Basic Strength Principles and Stress-Strain-Strength; Behavior of "Simple Clay" ({{% resource_link 4a39cf07-684c-36f9-d4e6-6d5b58ade10a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -113,7 +115,7 @@ Laddite - OC
 Hvorslev Parameters, SB Surface
 {{< tdclose >}}
 {{< tdopen >}}
-Soil Modeling (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.2 MB]({{< baseurl >}}/resources/08soilmodeling))
+Soil Modeling ({{% resource_link ac109c6c-c172-3a60-7280-d25e21c1c321 "PDF - 1.2 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -162,9 +164,9 @@ K0 and Stress History
 Stress History Profiling
 {{< tdclose >}}
 {{< tdopen >}}
-Consolidation Behavior of Saturated Soils (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 4.4 MB]({{< baseurl >}}/resources/09consolidationi))  
+Consolidation Behavior of Saturated Soils ({{% resource_link 4f9a0b29-f29e-c87f-3bec-fc4a8b81c39c "PDF - 4.4 MB" %}})  
   
-1-D Consolidation: Magnitude of Final Settlement (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 3.3 MB]({{< baseurl >}}/resources/10consolidatnii))
+1-D Consolidation: Magnitude of Final Settlement ({{% resource_link 679301ae-734f-d396-a007-ea8373ea4807 "PDF - 3.3 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -230,7 +232,7 @@ Problem Soils - 1
 Structured Clays, Varved Clays and Peat
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Soils (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 3.8 MB]({{< baseurl >}}/resources/14consolidatnvi))
+Problem Soils ({{% resource_link bdd945e0-fa8f-cdd5-0ceb-4f66b86e5fab "PDF - 3.8 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -264,7 +266,7 @@ Embankments on Peat
 Surcharging to Control 2° Compression
 {{< tdclose >}}
 {{< tdopen >}}
-Strength-Deformation Behavior of Saturated Clays and Drained/Undrained Stability (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.6 MB]({{< baseurl >}}/resources/15strengthdeform))
+Strength-Deformation Behavior of Saturated Clays and Drained/Undrained Stability ({{% resource_link 9e3388e4-7a58-40c2-8ec5-f8a167a7754d "PDF - 2.6 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -298,7 +300,7 @@ Strength 1C and IIA
 Strength IIB
 {{< tdclose >}}
 {{< tdopen >}}
-A Measurement of Undrained Strength for UU Case (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.4 MB]({{< baseurl >}}/resources/16partiia))
+A Measurement of Undrained Strength for UU Case ({{% resource_link b8fc984e-1bde-3ae1-f040-a98bdf6fac10 "PDF - 2.4 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -328,7 +330,7 @@ LCJ
 Strength IIC - Sample Disturbance
 {{< tdclose >}}
 {{< tdopen >}}
-Stress System: Experimental Techniques and Results (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 5.6 MB]({{< baseurl >}}/resources/18partiic))
+Stress System: Experimental Techniques and Results ({{% resource_link e8854a65-1e4f-2217-7d4c-b3beeefc45b1 "PDF - 5.6 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -343,7 +345,7 @@ LCJ
 Strength IID
 {{< tdclose >}}
 {{< tdopen >}}
-Influence of Time on Stress-Strain-Strength Behavior of Clays During Undrained Shear (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 3.5 MB]({{< baseurl >}}/resources/19partiid))
+Influence of Time on Stress-Strain-Strength Behavior of Clays During Undrained Shear ({{% resource_link 7eca0119-dac5-1eaa-3ed6-2dd09552dd2d "PDF - 3.5 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -360,7 +362,7 @@ Strength IID
 Strength IID, IIE and IIF
 {{< tdclose >}}
 {{< tdopen >}}
-Staged Construction (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 3.3 MB]({{< baseurl >}}/resources/20partiie))
+Staged Construction ({{% resource_link 4c24e292-3ebc-73c4-0ee5-05fcaca1fbc1 "PDF - 3.3 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
