@@ -7,6 +7,7 @@ file: /courses/1-322-soil-behavior-spring-2005/1292a09c0f1ccc89ccbc0f7e9167a5b0_
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 01partai.pdf
 uid: 1292a09c-0f1c-cc89-ccbc-0f7e9167a5b0
 ---
 This file includes introduction to the content of the course which includes soil composition, clay water forces, interparticle forces, strength generation, mechanisms controlling, soil structure, classiffication tests.
-
