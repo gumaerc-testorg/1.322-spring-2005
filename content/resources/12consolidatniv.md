@@ -3,6 +3,7 @@ content_type: resource
 description: This file explains secondary compression, factors affecting rate of secondary
   compression, hypothesis A vs. hypothesis B, and reduction in Cd with surcharge.
 file: /courses/1-322-soil-behavior-spring-2005/cde8619da898349b8af7fedf37346ca6_12consolidatniv.pdf
+file_size: 2825335
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

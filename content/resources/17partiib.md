@@ -4,6 +4,7 @@ description: This resource provides information about perfect sampling, ideal tu
   sampling, actual sampling, correcting UUC data for effects of sample distrubance,
   recompression, summary and conclusions.
 file: /courses/1-322-soil-behavior-spring-2005/0ad48b359a5e4f2c113eb4b2ab27735b_17partiib.pdf
+file_size: 3282093
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

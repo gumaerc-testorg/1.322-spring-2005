@@ -4,6 +4,7 @@ description: This file continues the introduction to the topics for the course w
   are soil composition, clay water forces, interparticle forces, strength generation,
   mechanisms controlling, soil structure, classiffication tests.
 file: /courses/1-322-soil-behavior-spring-2005/961195725fd07365477f97d8a844226d_02partaii.pdf
+file_size: 1055420
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
