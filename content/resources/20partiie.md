@@ -5,6 +5,7 @@ description: This resource provides information about types of stability analysi
   USA methodology, and non-circular stability analysis with anisotropic undrained
   shear strengths.
 file: /courses/1-322-soil-behavior-spring-2005/4c24e2923ebc73c40ee505fcaca1fbc1_20partiie.pdf
+file_size: 3441727
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -4,6 +4,7 @@ description: This resource provides information about classes of stability probl
   types of stability analysis, determination of effective stress failure envelopes
   for CD case, and long term stability.
 file: /courses/1-322-soil-behavior-spring-2005/9e3388e47a5840c28ec5f8a167a7754d_15strengthdeform.pdf
+file_size: 2708052
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
