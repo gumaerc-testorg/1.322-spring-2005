@@ -4,6 +4,7 @@ description: This resource provides information about Influence of Time on Stres
   Behavior of Clays during Undrained Shear, thixotropy, aging-secondary compression,
   effect of strain rate, undrained creep, summary and conclusions.
 file: /courses/1-322-soil-behavior-spring-2005/7eca0119dac51eaa3ed62dd09552dd2d_19partiid.pdf
+file_size: 3673392
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

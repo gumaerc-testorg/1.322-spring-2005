@@ -3,6 +3,7 @@ content_type: resource
 description: This file explains the topic of strength generation in soil with the
   help of frictional resistance, and cohesive resistance.
 file: /courses/1-322-soil-behavior-spring-2005/79a8bd0f4076a54c08e331c5a0b79667_04partaiv.pdf
+file_size: 725836
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -4,6 +4,7 @@ description: This file explains problem soil, higly structured and senstive soil
   peats and highly organic soil, collapsing and expansive soil, tropical residual
   soil, and varved clay.
 file: /courses/1-322-soil-behavior-spring-2005/bdd945e0fa8fcdd50ceb4f66b86e5fab_14consolidatnvi.pdf
+file_size: 4011525
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
