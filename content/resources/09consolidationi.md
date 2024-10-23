@@ -3,7 +3,7 @@ content_type: resource
 description: This file explains cofficients of earth pressure at rest, estimation
   of in situ K0 from lab testing, estimation of in situ K0 from site testing, and
   concluding remarks.
-file: /courses/1-322-soil-behavior-spring-2005/4f9a0b29f29ec87f3becfc4a8b81c39c_09consolidationi.pdf
+file: /ol-ocw-studio-app/courses/1-322-soil-behavior-spring-2005/4f9a0b29f29ec87f3becfc4a8b81c39c_09consolidationi.pdf
 file_size: 4644779
 file_type: application/pdf
 learning_resource_types:
