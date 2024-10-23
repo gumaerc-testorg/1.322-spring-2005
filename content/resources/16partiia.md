@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information about measurement of undrained strength
   for UU case, situ testing techniques, lab testing techniques and discussion.
-file: /courses/1-322-soil-behavior-spring-2005/b8fc984e1bde3ae1f040a98bdf6fac10_16partiia.pdf
+file: /ol-ocw-studio-app/courses/1-322-soil-behavior-spring-2005/b8fc984e1bde3ae1f040a98bdf6fac10_16partiia.pdf
 file_size: 2473843
 file_type: application/pdf
 learning_resource_types:

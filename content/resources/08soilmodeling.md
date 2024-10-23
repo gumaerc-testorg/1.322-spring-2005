@@ -2,7 +2,7 @@
 content_type: resource
 description: This file explains plasticity theory, modified cam clay, and comparison
   of MCC with simple clay.
-file: /courses/1-322-soil-behavior-spring-2005/ac109c6cc1723a607280d25e21c1c321_08soilmodeling.pdf
+file: /ol-ocw-studio-app/courses/1-322-soil-behavior-spring-2005/ac109c6cc1723a607280d25e21c1c321_08soilmodeling.pdf
 file_size: 1298437
 file_type: application/pdf
 learning_resource_types:
