@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file explains rate of consolidation and coefficient of permeability.
-file: /courses/1-322-soil-behavior-spring-2005/671fd5dca484933f8ed323032fb439e8_11consolidatniii.pdf
+file: /ol-ocw-studio-app/courses/1-322-soil-behavior-spring-2005/671fd5dca484933f8ed323032fb439e8_11consolidatniii.pdf
 file_size: 2446551
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This file explains two and three dimensional loading, initial settlement,
   and final consolidation settlement.
-file: /courses/1-322-soil-behavior-spring-2005/d1529c43ad161bafa99ff99baf92a830_13consolidationv.pdf
+file: /ol-ocw-studio-app/courses/1-322-soil-behavior-spring-2005/d1529c43ad161bafa99ff99baf92a830_13consolidationv.pdf
 file_size: 9364365
 file_type: application/pdf
 learning_resource_types:

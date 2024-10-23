@@ -3,7 +3,7 @@ content_type: resource
 description: 'This file explains the topics: unique failure envelope, simple clay
   and variable considered, different tests on simple clay, and other baisc sterngth
   principles.'
-file: /courses/1-322-soil-behavior-spring-2005/4a39cf07684c36f9d4e66d5b58ade10a_07partb.pdf
+file: /ol-ocw-studio-app/courses/1-322-soil-behavior-spring-2005/4a39cf07684c36f9d4e66d5b58ade10a_07partb.pdf
 file_size: 320970
 file_type: application/pdf
 learning_resource_types:

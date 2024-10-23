@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file explains the topic of soil structure: effects of clay type
   and environmental factors with the help of explaining different soil plates.'
-file: /courses/1-322-soil-behavior-spring-2005/0fc53c60f5eceed419d2fa8b13b89f9e_06partavi.pdf
+file: /ol-ocw-studio-app/courses/1-322-soil-behavior-spring-2005/0fc53c60f5eceed419d2fa8b13b89f9e_06partavi.pdf
 file_size: 1673625
 file_type: application/pdf
 learning_resource_types:
